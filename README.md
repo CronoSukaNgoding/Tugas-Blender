@@ -1,10 +1,10 @@
 # Tugas-Blender Membuat Studio UGTV
 
-Nama  : Syahiid Bani Putra\n
-Kelas : 3IA07\n
-NPM   : 51420220\n
-\n\n
-Nama  : Kevin Nugroho\n
-Kelas : 3IA07\n
-NPM   : 51420648\n
+Nama  : Syahiid Bani Putra
+Kelas : 3IA07
+NPM   : 51420220
+
+Nama  : Kevin Nugroho
+Kelas : 3IA07
+NPM   : 51420648
 
